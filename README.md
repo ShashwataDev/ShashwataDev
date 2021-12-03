@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashwataDev
 - 👀 I’m interested in computational science and simulations
-- 🌱 I’m currently learning molecular dynamics and general physics sims
+- 🌱 I’m currently learning molecular dynamics and general physics/math sims
 - 📫 How to reach me: shashwata7t2@gmail.com
 
 <!---
